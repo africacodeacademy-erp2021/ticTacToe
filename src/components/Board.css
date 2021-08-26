@@ -1,0 +1,9 @@
+.board {
+  width: 200px;
+  position: relative;
+  left: 610px;
+}
+
+.row {
+  display: flex;
+}
